@@ -1,0 +1,54 @@
+.custHeader{
+    color:#16754c;
+    float:right;
+}
+
+.subheader{
+  float:right;
+  font-size:30px!important;
+}
+
+.floatright{
+  float:right;
+}
+
+#headerBox{
+  border-bottom: 10px solid black;
+
+}
+
+.container{
+  margin-top:1%;
+}
+
+.custom-box{
+  text-align:right;
+}
+
+.float-left{
+  float:left;
+}
+
+#boxA{
+  background-color:#AE4109;
+  height:100px;
+  width:100px;
+}
+
+#boxB{
+  background-color:#FF4109;
+  height:100px;
+  width:100px;
+}
+
+#boxC{
+  background-color:#FB4139;
+  height:100px;
+  width:100px;
+}
+
+.favorites{
+  padding-right:50px;
+  height:100%;
+  text-align:center;
+}
