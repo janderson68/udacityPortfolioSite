@@ -4,13 +4,11 @@
 }
 
 .subheader{
-  float:right;
+  text-align:right;
   font-size:30px!important;
 }
 
-.floatright{
-  float:right;
-}
+
 
 #headerBox{
   border-bottom: 10px solid black;
